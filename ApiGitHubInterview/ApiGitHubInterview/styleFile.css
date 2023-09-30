@@ -1,0 +1,17 @@
+﻿.message_error {
+    text-align: center;
+}
+
+strong {
+    margin-right: 1vw;
+    color: grey;
+}
+
+.custom-spinner {
+    color: gray;
+}
+.send_email_button, .bookmark_button{
+    margin-right:0.3vw;
+    margin-left:0.3vh;
+}
+
